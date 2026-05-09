@@ -1,0 +1,11 @@
+{
+  "id": "HideInformation",
+  "name": "隐藏信息",
+  "author": "QingTian",
+  "description": "信息隐藏mod",
+  "version": "v1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
